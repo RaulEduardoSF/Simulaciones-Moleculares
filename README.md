@@ -1,4 +1,4 @@
-# Simulaciones-Moleculares C$_6$H$_6$ y C$_{60}$
+# Simulaciones-Moleculares C$$_6$$H$$_6$$ y C$$_{60}$$
 DFT vs Metodo de Huckel para orbitales moleculares
 
 ## DFT
